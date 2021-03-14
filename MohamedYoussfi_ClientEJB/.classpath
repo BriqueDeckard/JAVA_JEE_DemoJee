@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-se-8u41-ri"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MohamedYoussfi_Test_Jee"/>
+	<classpathentry kind="lib" path="E:/WEBSERVERS/payara-5.2021.1/payara5/glassfish/modules/gf-client-module.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
